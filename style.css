@@ -1,0 +1,55 @@
+img {
+    height: 400;
+}
+
+body {
+    text-align: center;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+#achievements {
+    padding-top: 50px;
+
+}
+
+.travel_mainDiv img {
+    height: 300px;
+    width: 100%;
+}
+
+.travel_mainDiv {
+    float: left;
+    padding: 5px;
+
+}
+
+#map iframe {
+    width: 50%;
+    height: 500px;
+    float: left;
+    padding-top: 5px;
+}
+
+#details img {
+    height: 300px;
+    width: 350px;
+
+}
+html{
+    scroll-behavior: smooth;
+}
+.container{
+    padding-top:200px;
+}
